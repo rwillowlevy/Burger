@@ -1,24 +1,24 @@
 {
-    "name": "13-node-express-handlebars",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": ""
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rwillowlevy/Burger"
-    },
-    "author": "Rachel Levy",
-    "license": "Northwestern University",
-    "bugs": {
-      "url": "https://github.com/rwillowlevy/Burger/issues"
-    },
-    "homepage": "https://github.com/rwillowlevy/Burger#readme",
-    "dependencies": {
-      "express": "^4.17.1",
-      "express-handlebars": "^4.0.3",
-      "mysql": "^2.18.1"
-    }
+  "name": "13-node-express-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwillowlevy/Burger"
+  },
+  "author": "Rachel Levy",
+  "license": "Northwestern University",
+  "bugs": {
+    "url": "https://github.com/rwillowlevy/Burger/issues"
+  },
+  "homepage": "https://github.com/rwillowlevy/Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mysql": "^2.18.1"
   }
+}
